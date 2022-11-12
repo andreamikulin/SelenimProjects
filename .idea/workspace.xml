@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChromeBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/OpenBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirefoxBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParentBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+    <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
+      <change afterPath="$PROJECT_DIR$/src/Day02/Mentoring/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Practice/Navigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Practice/OpenNewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Practice/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Practice/TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Practice/TabCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Mentoring/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/Practice/TestCase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +54,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1\Drivers" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day02.Practice" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.OpenBrowser">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SeleniumProject1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.OpenBrowser" />
+  <component name="RunManager" selected="Application.TestCase2">
+    <configuration name="Navigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Practice.Navigation" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01.*" />
+          <option name="PATTERN" value="Day02.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,18 +72,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestClass" />
+    <configuration name="OpenNewWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Practice.OpenNewWindow" />
       <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Practice.TC01" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Practice.TabCommand" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.Practice.TestCase2" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OpenBrowser" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestCase2" />
+        <item itemvalue="Application.TC01" />
+        <item itemvalue="Application.OpenNewWindow" />
+        <item itemvalue="Application.TabCommand" />
+        <item itemvalue="Application.Navigation" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +143,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667958277605</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day2 Code">
+      <created>1668038666753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668038666753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +163,50 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day2 Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2 Code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day02/Mentoring/Task1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
