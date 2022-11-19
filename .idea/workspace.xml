@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Day04/WebElementsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/WebElementsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class04/XpathDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Andrea/Drivers and JAR files/lib/slf4j-api-2.0.3.jar",
+    "last_opened_file_path": "C:/Users/Andrea/Drivers_and_JAR_files/lib/slf4j-api-2.0.3.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -53,22 +53,9 @@
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebElementsDemo2">
-    <configuration name="OpenNewWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.Practice.OpenNewWindow" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day02.Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.Practice.TC01" />
+  <component name="RunManager" selected="Application.XpathDemo">
+    <configuration name="Navigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Practice.Navigation" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
@@ -119,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.XpathDemo" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XpathDemo" />
+        <item itemvalue="Application.Navigation" />
         <item itemvalue="Application.WebElementsDemo2" />
         <item itemvalue="Application.WebElementsDemo" />
         <item itemvalue="Application.TestCase2" />
-        <item itemvalue="Application.TC01" />
-        <item itemvalue="Application.OpenNewWindow" />
       </list>
     </recent_temporary>
   </component>
