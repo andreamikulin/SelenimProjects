@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class04/XpathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/GetAttributeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/RadioAndButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/RadioDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/RadioDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/BlankEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/FindAllLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/FindSpecificLink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,32 +39,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Andrea/Drivers_and_JAR_files/lib/slf4j-api-2.0.3.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrea/Drivers_and_JAR_files/lib/slf4j-api-2.0.3.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1\Drivers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class06" />
       <recent name="Day04" />
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XpathDemo">
-    <configuration name="Navigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.Practice.Navigation" />
+  <component name="RunManager" selected="Application.FindSpecificLink">
+    <configuration name="BlankEmpty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.BlankEmpty" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.Practice.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03.Practice.TestCase2" />
+    <configuration name="FindAllLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.FindAllLinks" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03.Practice.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebElementsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.WebElementsDemo" />
+    <configuration name="FindSpecificLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.FindSpecificLink" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebElementsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.WebElementsDemo2" />
+    <configuration name="RadioAndButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class06.RadioAndButtons" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04.*" />
+          <option name="PATTERN" value="Class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class04.XpathDemo" />
+    <configuration name="RadioDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class06.RadioDemo2" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class04.*" />
+          <option name="PATTERN" value="Class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.Navigation" />
-        <item itemvalue="Application.WebElementsDemo2" />
-        <item itemvalue="Application.WebElementsDemo" />
-        <item itemvalue="Application.TestCase2" />
+        <item itemvalue="Application.FindSpecificLink" />
+        <item itemvalue="Application.BlankEmpty" />
+        <item itemvalue="Application.FindAllLinks" />
+        <item itemvalue="Application.RadioAndButtons" />
+        <item itemvalue="Application.RadioDemo2" />
       </list>
     </recent_temporary>
   </component>
