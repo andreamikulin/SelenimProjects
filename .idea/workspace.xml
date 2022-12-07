@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09/_01_ConnectWithPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class09/_02_loginToExelenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsReader_old.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class10/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ConfigsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ConfigsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Andrea/IdeaProjects/Andrea/SeleniumProject1",
+    "last_opened_file_path": "C:/Users/Andrea/Desktop/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -65,20 +62,7 @@
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConfigsReader">
-    <configuration name="CarsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class08.CarsTest" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExcelIntro">
     <configuration name="CarsTestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class08.CarsTestArrayList" />
       <module name="SeleniumProject1" />
@@ -105,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class08.IteratorDemo" />
+    <configuration name="ExcelIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class10.ExcelIntro" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class08.*" />
+          <option name="PATTERN" value="Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class10.TestClass" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelIntro" />
+        <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.ConfigsReader" />
         <item itemvalue="Application._01_ConnectWithPropertiesFile" />
         <item itemvalue="Application.CarsTestArrayList" />
-        <item itemvalue="Application.CarsTest" />
-        <item itemvalue="Application.IteratorDemo" />
       </list>
     </recent_temporary>
   </component>

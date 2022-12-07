@@ -7,13 +7,15 @@ import java.util.Properties;
 // NOTE: THIS CLASS READS FROM THE PROPERTIES FILE. Alternative name, to this class, could be "ReadFromProperties"
 
 public class ConfigsReader {
-        static Properties properties;
+    static Properties properties;
+
 
     public static void loadProperties(String filePath) {
         try {
             FileInputStream fis = new FileInputStream(filePath);
             properties = new Properties();
             properties.load(fis);
+            fis.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -21,8 +23,9 @@ public class ConfigsReader {
         }
     }
 
-    public static String getProperties(String key){
+
+
+    public static String getProperties(String key) {
         return properties.getProperty(key);
     }
-
 }
