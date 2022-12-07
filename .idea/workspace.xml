@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class08/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/CarsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/CarsTestArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/IteratorIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class09/_01_ConnectWithPropertiesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class09/_02_loginToExelenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsReader_old.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigsWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,27 +42,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrea/Drivers_and_JAR_files/lib/slf4j-api-2.0.3.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Andrea/IdeaProjects/Andrea/SeleniumProject1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1" />
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1\Drivers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
       <recent name="Class06" />
       <recent name="Day04" />
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarsTestArrayList">
+  <component name="RunManager" selected="Application.ConfigsReader">
     <configuration name="CarsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class08.CarsTest" />
       <module name="SeleniumProject1" />
@@ -84,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSpecificLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class07.FindSpecificLink" />
+    <configuration name="ConfigsReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.ConfigsReader" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class07.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class08.IteratorIntro" />
+    <configuration name="_01_ConnectWithPropertiesFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class09._01_ConnectWithPropertiesFile" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class08.*" />
+          <option name="PATTERN" value="Class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConfigsReader" />
+        <item itemvalue="Application._01_ConnectWithPropertiesFile" />
         <item itemvalue="Application.CarsTestArrayList" />
         <item itemvalue="Application.CarsTest" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.IteratorIntro" />
-        <item itemvalue="Application.FindSpecificLink" />
       </list>
     </recent_temporary>
   </component>
