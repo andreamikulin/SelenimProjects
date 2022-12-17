@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class10/ExcelToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/ReadFromExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class10/WriteToExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DropDownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/EmployeeList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/HW_Checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/DropDownArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/Dropdown_Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/HW_Countries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10/ExcelIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +63,42 @@
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class11" />
       <recent name="utils" />
       <recent name="Class06" />
       <recent name="Day04" />
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetAttributeMethod">
-    <configuration name="DropDownDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class11.DropDownDemo" />
+  <component name="RunManager" selected="Application.DropdownDDMMYYYY_Refactor2">
+    <configuration name="DropdownDDMMYYYY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownDDMMYYYY_Refactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY_Refactor" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownDDMMYYYY_Refactor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY_Refactor2" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
@@ -92,21 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class10.ExcelToMap" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetAttributeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class06.GetAttributeMethod" />
+    <configuration name="HW_Checkboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class06.HW_Checkboxes" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
@@ -118,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class04.XpathDemo" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetAttributeMethod" />
-        <item itemvalue="Application.DropDownDemo" />
-        <item itemvalue="Application.XpathDemo" />
+        <item itemvalue="Application.DropdownDDMMYYYY_Refactor2" />
+        <item itemvalue="Application.DropdownDDMMYYYY_Refactor" />
+        <item itemvalue="Application.DropdownDDMMYYYY" />
         <item itemvalue="Application.DrpDownMenu2" />
-        <item itemvalue="Application.ExcelToMap" />
+        <item itemvalue="Application.HW_Checkboxes" />
       </list>
     </recent_temporary>
   </component>

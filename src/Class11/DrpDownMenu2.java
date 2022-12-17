@@ -31,11 +31,25 @@ public class DrpDownMenu2 {
                 countries.get(i).click();
                 break;
             }
-
         }
 
-        tearDown();
+        List<WebElement> countryLisat = driver.findElements(By.xpath("//*[@name='country']/option"));
+        for (WebElement country : countries) {
+            if (country.getText().equals("Cuba")) {
+                country.click();
+                break;
+            }
+        }
 
+        boolean isMultiple = select.isMultiple();
+        System.out.println(isMultiple);
+
+        WebElement months = driver.findElement(By.cssSelector("select[name='Month']"));
+        Select selectMonths = new Select(months);
+        System.out.println("MonthsDD is Multiple: " + selectMonths.isMultiple());
+
+
+        tearDown();
 
     }
 }
