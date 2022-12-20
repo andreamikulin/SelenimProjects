@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class06/HW_Checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DropDownArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/Dropdown_Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class11/HW_Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/AlertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class12/ModalAlert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,20 @@
       <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DropdownDDMMYYYY_Refactor2">
+  <component name="RunManager" selected="Application.AlertDemo">
+    <configuration name="AlertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12.AlertDemo" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DropdownDDMMYYYY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY" />
       <module name="SeleniumProject1" />
@@ -123,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_Checkboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class06.HW_Checkboxes" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlertDemo" />
         <item itemvalue="Application.DropdownDDMMYYYY_Refactor2" />
         <item itemvalue="Application.DropdownDDMMYYYY_Refactor" />
         <item itemvalue="Application.DropdownDDMMYYYY" />
         <item itemvalue="Application.DrpDownMenu2" />
-        <item itemvalue="Application.HW_Checkboxes" />
       </list>
     </recent_temporary>
   </component>
@@ -220,5 +213,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumProject1$AlertDemo.ic" NAME="AlertDemo Coverage Results" MODIFIED="1671240796709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Class12.*</FILTER>
+    </SUITE>
   </component>
 </project>
