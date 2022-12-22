@@ -9,9 +9,10 @@ import java.util.List;
 import static utils.BaseClass.*;
 
 public class DrpDownMenu2 {
+    static String url = "https://selenium08.blogspot.com/2019/11/dropdown.html";
 
     public static void main(String[] args) throws InterruptedException {
-        setUp();
+        setUp(url);
 
         WebElement countryDD = driver.findElement(By.cssSelector("select[name='country']"));
         Select select = new Select(countryDD);

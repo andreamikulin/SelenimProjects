@@ -9,8 +9,10 @@ import java.util.List;
 import static utils.BaseClass.*;
 
 public class DropdownDDMMYYYY {
+    static String url = "https://selenium08.blogspot.com/2019/11/dropdown.html";
+
     public static void main(String[] args) throws InterruptedException {
-        setUp();
+        setUp(url);
 
         WebElement dayDD = driver.findElement(By.xpath("(//select[@class='day '])[1]"));
         Select selectDayDD = new Select(dayDD);

@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class BaseClass {
     public static WebDriver driver;
 
-    public static void setUp() {
+    public static void setUp(String url) {
         // 1st way: Hard-Coding (Not recommended).
         // System.setProperty("webdriver.chrome.driver", Constants.CHROME_DRIVER_PATH); // window users add '.exe' at the end
         // WebDriver driver = new ChromeDriver();
@@ -27,7 +27,8 @@ public class BaseClass {
             default -> throw new RuntimeException("Browser is not supported");
         }
 
-        driver.get(ConfigsReader.getProperties("url"));
+        //driver.get(ConfigsReader.getProperties("url"))
+        driver.get(url);
 
     }
 

@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class12/AlertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class12/ModalAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class04/CSSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/FramesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/FramesDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class13/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class06/HW_Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class06/HW_Checkboxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class10/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DropDownArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DropDownArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/Dropdown_Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/Dropdown_Multiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/DrpDownMenu2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class11/HW_Countries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class11/HW_Countries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class12/AlertDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12/AlertDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class12/ModalAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12/ModalAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +39,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/configs/configuration.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class04/CSSDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class04/XpathDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class06/HW_Checkboxes.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class11/DropdownDDMMYYYY_Refactor2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class12/AlertDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Class12/ModalAlert.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/utils/BaseClass.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +72,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrea/Desktop/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -56,14 +83,14 @@
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class13" />
+      <recent name="Class04" />
       <recent name="Class11" />
       <recent name="utils" />
       <recent name="Class06" />
-      <recent name="Day04" />
-      <recent name="Day02.Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlertDemo">
+  <component name="RunManager" selected="Application.Task">
     <configuration name="AlertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class12.AlertDemo" />
       <module name="SeleniumProject1" />
@@ -77,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropdownDDMMYYYY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY" />
+    <configuration name="FramesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class13.FramesDemo" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class11.*" />
+          <option name="PATTERN" value="Class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropdownDDMMYYYY_Refactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY_Refactor" />
+    <configuration name="FramesDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class13.FramesDemo2" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class11.*" />
+          <option name="PATTERN" value="Class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropdownDDMMYYYY_Refactor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class11.DropdownDDMMYYYY_Refactor2" />
+    <configuration name="ModalAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12.ModalAlert" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class11.*" />
+          <option name="PATTERN" value="Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrpDownMenu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class11.DrpDownMenu2" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class13.Task" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class11.*" />
+          <option name="PATTERN" value="Class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.FramesDemo2" />
+        <item itemvalue="Application.FramesDemo" />
         <item itemvalue="Application.AlertDemo" />
-        <item itemvalue="Application.DropdownDDMMYYYY_Refactor2" />
-        <item itemvalue="Application.DropdownDDMMYYYY_Refactor" />
-        <item itemvalue="Application.DropdownDDMMYYYY" />
-        <item itemvalue="Application.DrpDownMenu2" />
+        <item itemvalue="Application.ModalAlert" />
       </list>
     </recent_temporary>
   </component>

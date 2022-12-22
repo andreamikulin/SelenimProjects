@@ -6,8 +6,10 @@ import org.openqa.selenium.WebElement;
 import static utils.BaseClass.*;
 
 public class ModalAlert {
+    static String url = "https://demoqa.com/modal-dialogs";
+
     public static void main(String[] args) {
-        setUp(); //switch to url: demoqa
+        setUp(url); //switch to url: demoqa
 
         WebElement modalAlert = driver.findElement(By.id("showSmallModal"));
         modalAlert.click();

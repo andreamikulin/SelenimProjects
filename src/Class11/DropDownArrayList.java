@@ -10,9 +10,10 @@ import java.util.List;
 import static utils.BaseClass.*;
 
 public class DropDownArrayList {
+    static String url = "https://selenium08.blogspot.com/2019/11/dropdown.html";
 
     public static void main(String[] args) {
-        setUp();
+        setUp(url);
 
         WebElement months = driver.findElement(By.cssSelector("select[name='Month']"));
         Select select = new Select(months);

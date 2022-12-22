@@ -7,9 +7,10 @@ import org.openqa.selenium.WebElement;
 import static utils.BaseClass.*;
 
 public class AlertDemo {
+    static String url = "https://selenium08.blogspot.com/2019/11/dropdown.html";
 
     public static void main(String[] args) throws InterruptedException {
-        setUp();  // switch to URL: https://selenium08.blogspot.com/2019/07/alert-test.html
+        setUp(url);  // switch to URL: https://selenium08.blogspot.com/2019/07/alert-test.html
 
         // How to handle a simple alert
         WebElement simpleAlert = driver.findElement(By.id("simple"));  // for all alert types we use .switchTo().alert()
