@@ -16,6 +16,6 @@ public class Task {
         System.out.println(driver.findElement(By.xpath("//*[contains(text(), 'a9t9')]")).getText());
         driver.findElement(By.xpath("//*[contains(text(), 'a9t9')]")).click();
         Thread.sleep(2000);
-        tearDown();
+        //tearDown();
     }
 }
