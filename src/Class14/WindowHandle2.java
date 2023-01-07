@@ -2,7 +2,9 @@ package Class14;
 
 import org.openqa.selenium.WindowType;
 
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Set;
 
 import static utils.BaseClass.*;
@@ -28,7 +30,9 @@ public class WindowHandle2 {
         Set<String> allWindows = driver.getWindowHandles();
         System.out.println("Tabs open = " + allWindows.size());
 
+
         Iterator<String> iterator = allWindows.iterator();
+        int count = 1;
 
         while(iterator.hasNext()) {
             String nextWindow = iterator.next();

@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code" />
+    <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
+      <change afterPath="$PROJECT_DIR$/src/Class14/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14/WindowHandle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14/WindowHandle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/ImplicitWait_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/WaitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class14/WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/WindowHandle2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,13 +79,13 @@
       <recent name="Class06" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WindowHandle2">
-    <configuration name="NestedFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class13.NestedFrames" />
+  <component name="RunManager" selected="Application.ImplicitWait_Task">
+    <configuration name="ImplicitWait_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class15.ImplicitWait_Task" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class13.*" />
+          <option name="PATTERN" value="Class15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,33 +94,7 @@
       </method>
     </configuration>
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class13.Task" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UploadFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class13.UploadFiles" />
-      <module name="SeleniumProject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowHandle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandle2" />
+      <option name="MAIN_CLASS_NAME" value="Class14.Task" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +106,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandleDemo" />
+    <configuration name="WaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class15.WaitDemo" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandle3" />
+      <module name="SeleniumProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandle4" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindowHandle2" />
-        <item itemvalue="Application.WindowHandleDemo" />
-        <item itemvalue="Application.UploadFiles" />
-        <item itemvalue="Application.NestedFrames" />
+        <item itemvalue="Application.ImplicitWait_Task" />
+        <item itemvalue="Application.WaitDemo" />
         <item itemvalue="Application.Task" />
+        <item itemvalue="Application.WindowHandle4" />
+        <item itemvalue="Application.WindowHandle3" />
       </list>
     </recent_temporary>
   </component>
