@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="923b7a5f-cd62-4623-955f-a53bd83c06ba" name="Changes" comment="Day2 Code">
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/WindowHandle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/WindowHandle4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/ImplicitWait_Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/WaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14/WindowHandle4_Refactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/Explicit_Wait_HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class15/FluentWaitWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_01_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_02_RadioOrCheckboxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_02_RadioOrCheckboxTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_03_DropdownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_04_DropdownTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_05_Dropdown3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16_DevelopFunctions/_06_AlertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class17_WebTables/_00_Recap_WaitTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/CommonMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/WindowHandle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15/ImplicitWait_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15/ImplicitWait_Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,20 +84,20 @@
       <recent name="C:\Users\Andrea\IdeaProjects\Andrea\SeleniumProject1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class16_DevelopFunctions" />
       <recent name="Class13" />
       <recent name="Class04" />
       <recent name="Class11" />
       <recent name="utils" />
-      <recent name="Class06" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImplicitWait_Task">
-    <configuration name="ImplicitWait_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15.ImplicitWait_Task" />
+  <component name="RunManager" selected="Application._00_Recap_WaitTypes">
+    <configuration name="_00_Recap_WaitTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class17_WebTables._00_Recap_WaitTypes" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class15.*" />
+          <option name="PATTERN" value="Class17_WebTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class14.Task" />
+    <configuration name="_01_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16_DevelopFunctions._01_LoginTest" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class14.*" />
+          <option name="PATTERN" value="Class16_DevelopFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15.WaitDemo" />
+    <configuration name="_02_RadioOrCheckboxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16_DevelopFunctions._02_RadioOrCheckboxTest" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class15.*" />
+          <option name="PATTERN" value="Class16_DevelopFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandle3" />
+    <configuration name="_04_DropdownTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16_DevelopFunctions._04_DropdownTest2" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class14.*" />
+          <option name="PATTERN" value="Class16_DevelopFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class14.WindowHandle4" />
+    <configuration name="_05_Dropdown3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16_DevelopFunctions._05_Dropdown3" />
       <module name="SeleniumProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class14.*" />
+          <option name="PATTERN" value="Class16_DevelopFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImplicitWait_Task" />
-        <item itemvalue="Application.WaitDemo" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.WindowHandle4" />
-        <item itemvalue="Application.WindowHandle3" />
+        <item itemvalue="Application._00_Recap_WaitTypes" />
+        <item itemvalue="Application._05_Dropdown3" />
+        <item itemvalue="Application._04_DropdownTest2" />
+        <item itemvalue="Application._02_RadioOrCheckboxTest" />
+        <item itemvalue="Application._01_LoginTest" />
       </list>
     </recent_temporary>
   </component>

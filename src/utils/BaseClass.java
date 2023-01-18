@@ -4,6 +4,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.time.Duration;
+
 public class BaseClass {
     public static WebDriver driver;
 
@@ -30,6 +32,8 @@ public class BaseClass {
         //driver.get(ConfigsReader.getProperties("url"))
         driver.get(url);
         driver.manage().window().maximize();
+        //driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+
 
     }
 
